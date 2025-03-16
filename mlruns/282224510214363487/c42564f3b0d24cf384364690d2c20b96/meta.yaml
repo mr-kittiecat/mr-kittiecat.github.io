@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonk/Desktop/School/DSAI/Car%20Prices%20-%20Model%20Deployment/mr-kittiecat.github.io/mlruns/282224510214363487/c42564f3b0d24cf384364690d2c20b96/artifacts
+end_time: 1742078248542
+entry_point_name: ''
+experiment_id: '282224510214363487'
+lifecycle_stage: active
+run_id: c42564f3b0d24cf384364690d2c20b96
+run_name: bittersweet-bug-28
+run_uuid: c42564f3b0d24cf384364690d2c20b96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742078221868
+status: 3
+tags: []
+user_id: leonk

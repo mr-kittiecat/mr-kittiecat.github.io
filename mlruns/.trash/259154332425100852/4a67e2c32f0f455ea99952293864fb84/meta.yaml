@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/leonk/Desktop/School/DSAI/Car%20Prices%20-%20Model%20Deployment/mr-kittiecat.github.io/mlruns/259154332425100852/4a67e2c32f0f455ea99952293864fb84/artifacts
+deleted_time: 1742070351728
+end_time: 1742070166799
+entry_point_name: ''
+experiment_id: '259154332425100852'
+lifecycle_stage: deleted
+run_id: 4a67e2c32f0f455ea99952293864fb84
+run_name: trusting-hound-631
+run_uuid: 4a67e2c32f0f455ea99952293864fb84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742070166677
+status: 4
+tags: []
+user_id: leonk

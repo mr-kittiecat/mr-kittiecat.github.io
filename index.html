@@ -1,23 +1,23 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en"></html>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Autopreis-Vorhersage</title>
+  <title>Car Price Prediction</title>
   <link rel="stylesheet" href="style.css">
   <script src="https://cdn.jsdelivr.net/npm/ml-regression@6.5.0/dist/ml-regression.min.js"></script>
   <script src="script.js" defer></script>
 </head>
 <body>
 
-  <h2>🔍 Autopreis-Vorhersage</h2>
+  <h2>Car Price Prediction</h2>
 
   <div class="container">
     <form id="prediction-form">
-      <!-- Marke: Select-Feld mit einer leeren Option, um eine gültige Auswahl zu erzwingen -->
-      <label for="brand">Marke:</label>
+      <!-- Brand: Select field with an empty option to enforce a valid selection -->
+      <label for="brand">Brand:</label>
       <select id="brand" required>
-        <option value="">Bitte auswählen</option>
+        <option value="">Please select</option>
         <option value="0">Audi</option>
         <option value="1">BMW</option>
         <option value="2">Mercedes</option>
@@ -30,45 +30,45 @@
         <option value="9">Hyundai</option>
       </select>
 
-      <!-- Motorgröße: Hier werden nur Werte zwischen 0.5 und 8 Litern akzeptiert -->
-      <label for="engine_size">Motorgröße (Liter):</label>
-      <input type="number" id="engine_size" step="0.1" min="0.5" max="8" placeholder="z.B. 2.0" required>
+      <!-- Engine Size: Only values between 0.5 and 8 liters are accepted -->
+      <label for="engine_size">Engine Size (Liters):</label>
+      <input type="number" id="engine_size" step="0.1" min="0.5" max="8" placeholder="e.g. 2.0" required>
 
-      <!-- Fahrzeugalter: Nur Werte von 0 bis 50 Jahren -->
-      <label for="car_age">Fahrzeugalter (Jahre):</label>
-      <input type="number" id="car_age" min="0" max="50" placeholder="z.B. 5" required>
+      <!-- Car Age: Only values from 0 to 50 years -->
+      <label for="car_age">Car Age (Years):</label>
+      <input type="number" id="car_age" min="0" max="50" placeholder="e.g. 5" required>
 
-      <!-- Kilometerstand: Darf nicht negativ sein -->
-      <label for="mileage">Kilometerstand:</label>
-      <input type="number" id="mileage" min="0" placeholder="z.B. 50000" required>
+      <!-- Mileage: Cannot be negative -->
+      <label for="mileage">Mileage:</label>
+      <input type="number" id="mileage" min="0" placeholder="e.g. 50000" required>
 
-      <!-- Kraftstoffart: Auswahlfeld mit leerer Standardoption -->
-      <label for="fuel_type">Kraftstoffart:</label>
+      <!-- Fuel Type: Select field with empty default option -->
+      <label for="fuel_type">Fuel Type:</label>
       <select id="fuel_type" required>
-        <option value="">Bitte auswählen</option>
-        <option value="0">Benzin</option>
+        <option value="">Please select</option>
+        <option value="0">Petrol</option>
         <option value="1">Diesel</option>
-        <option value="2">Elektro</option>
+        <option value="2">Electric</option>
         <option value="3">Hybrid</option>
       </select>
 
-      <!-- Getriebe: Auswahlfeld mit leerer Standardoption -->
-      <label for="transmission">Getriebe:</label>
+      <!-- Transmission: Select field with empty default option -->
+      <label for="transmission">Transmission:</label>
       <select id="transmission" required>
-        <option value="">Bitte auswählen</option>
-        <option value="0">Manuell</option>
-        <option value="1">Automatik</option>
-        <option value="2">Halbautomatik</option>
+        <option value="">Please select</option>
+        <option value="0">Manual</option>
+        <option value="1">Automatic</option>
+        <option value="2">Semi-automatic</option>
       </select>
 
-      <!-- Türen: Nur 2 bis 5 Türen zulässig -->
-      <label for="doors">Türen:</label>
+      <!-- Doors: Only 2 to 5 doors allowed -->
+      <label for="doors">Doors:</label>
       <input type="number" id="doors" min="2" max="5" required>
 
-      <button type="submit">Vorhersage berechnen</button>
+      <button type="submit">Predict Price</button>
     </form>
 
-    <h3 class="result">Vorhergesagter Preis: <span id="predicted-price">-</span> €</h3>
+    <h3 class="result">Predicted Price: <span id="predicted-price">-</span> €</h3>
   </div>
 
 </body>

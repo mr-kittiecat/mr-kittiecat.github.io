@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonk/Desktop/School/DSAI/Car%20Prices%20-%20Model%20Deployment/mr-kittiecat.github.io/mlruns/772213441700955123/de0245e4fbb34803963db2943a610bdd/artifacts
+end_time: 1742066696108
+entry_point_name: ''
+experiment_id: '772213441700955123'
+lifecycle_stage: active
+run_id: de0245e4fbb34803963db2943a610bdd
+run_name: bedecked-skunk-828
+run_uuid: de0245e4fbb34803963db2943a610bdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742066680173
+status: 3
+tags: []
+user_id: leonk

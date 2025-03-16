@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonk/Desktop/School/DSAI/Car%20Prices%20-%20Model%20Deployment/mr-kittiecat.github.io/mlruns/667735949549751759/53252420d5c64e579b8df7e3ae6072ee/artifacts
+end_time: 1742078380511
+entry_point_name: ''
+experiment_id: '667735949549751759'
+lifecycle_stage: active
+run_id: 53252420d5c64e579b8df7e3ae6072ee
+run_name: spiffy-vole-151
+run_uuid: 53252420d5c64e579b8df7e3ae6072ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742078368241
+status: 4
+tags: []
+user_id: leonk

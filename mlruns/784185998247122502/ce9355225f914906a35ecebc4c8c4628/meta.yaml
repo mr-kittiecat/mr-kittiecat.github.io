@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonk/Desktop/School/DSAI/Car%20Prices%20-%20Model%20Deployment/mr-kittiecat.github.io/mlruns/784185998247122502/ce9355225f914906a35ecebc4c8c4628/artifacts
+end_time: 1742078263080
+entry_point_name: ''
+experiment_id: '784185998247122502'
+lifecycle_stage: active
+run_id: ce9355225f914906a35ecebc4c8c4628
+run_name: rumbling-quail-18
+run_uuid: ce9355225f914906a35ecebc4c8c4628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742078242964
+status: 3
+tags: []
+user_id: leonk

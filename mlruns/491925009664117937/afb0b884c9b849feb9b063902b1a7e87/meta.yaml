@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonk/Desktop/School/DSAI/Car%20Prices%20-%20Model%20Deployment/mr-kittiecat.github.io/mlruns/491925009664117937/afb0b884c9b849feb9b063902b1a7e87/artifacts
+end_time: 1742079047142
+entry_point_name: ''
+experiment_id: '491925009664117937'
+lifecycle_stage: active
+run_id: afb0b884c9b849feb9b063902b1a7e87
+run_name: blushing-elk-345
+run_uuid: afb0b884c9b849feb9b063902b1a7e87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742079035149
+status: 3
+tags: []
+user_id: leonk

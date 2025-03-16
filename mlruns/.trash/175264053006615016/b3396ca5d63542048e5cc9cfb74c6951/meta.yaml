@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/leonk/Desktop/School/DSAI/Car%20Prices%20-%20Model%20Deployment/mr-kittiecat.github.io/mlruns/175264053006615016/b3396ca5d63542048e5cc9cfb74c6951/artifacts
+deleted_time: 1742060112166
+end_time: 1742059585484
+entry_point_name: ''
+experiment_id: '175264053006615016'
+lifecycle_stage: deleted
+run_id: b3396ca5d63542048e5cc9cfb74c6951
+run_name: angry-duck-164
+run_uuid: b3396ca5d63542048e5cc9cfb74c6951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742059568247
+status: 3
+tags: []
+user_id: leonk

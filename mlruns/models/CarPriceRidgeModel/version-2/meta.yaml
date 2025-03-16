@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741479111102
+current_stage: None
+description: null
+last_updated_timestamp: 1741479111102
+name: CarPriceRidgeModel
+run_id: f0bd47116ae245e09b462d39ffbf0391
+run_link: null
+source: file:///c:/Users/leonk/Desktop/School/DSAI/Car%20Prices%20-%20Model%20Deployment/mr-kittiecat.github.io/mlruns/175264053006615016/f0bd47116ae245e09b462d39ffbf0391/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/leonk/Desktop/School/DSAI/Car%20Prices%20-%20Model%20Deployment/mr-kittiecat.github.io/mlruns/175264053006615016/f0bd47116ae245e09b462d39ffbf0391/artifacts/model
+user_id: null
+version: 2

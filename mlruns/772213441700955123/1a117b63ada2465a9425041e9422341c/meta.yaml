@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/leonk/Desktop/School/DSAI/Car%20Prices%20-%20Model%20Deployment/mr-kittiecat.github.io/mlruns/772213441700955123/1a117b63ada2465a9425041e9422341c/artifacts
+end_time: 1742066835555
+entry_point_name: ''
+experiment_id: '772213441700955123'
+lifecycle_stage: active
+run_id: 1a117b63ada2465a9425041e9422341c
+run_name: masked-turtle-472
+run_uuid: 1a117b63ada2465a9425041e9422341c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742066834785
+status: 3
+tags: []
+user_id: leonk
